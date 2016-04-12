@@ -1,0 +1,9 @@
+c:\users\mahowa\documents\visual studio 2015\Projects\ImageEnlarger\ImageEnlarger\bin\Debug\ImageEnlarger.exe.config
+c:\users\mahowa\documents\visual studio 2015\Projects\ImageEnlarger\ImageEnlarger\obj\Debug\ImageEnlarger.csprojResolveAssemblyReference.cache
+c:\users\mahowa\documents\visual studio 2015\Projects\ImageEnlarger\ImageEnlarger\bin\Debug\ImageEnlarger.exe
+c:\users\mahowa\documents\visual studio 2015\Projects\ImageEnlarger\ImageEnlarger\bin\Debug\ImageEnlarger.pdb
+c:\users\mahowa\documents\visual studio 2015\Projects\ImageEnlarger\ImageEnlarger\obj\Debug\ImageEnlarger.exe
+c:\users\mahowa\documents\visual studio 2015\Projects\ImageEnlarger\ImageEnlarger\obj\Debug\ImageEnlarger.pdb
+C:\Users\mahowa\Documents\Visual Studio 2015\Projects\ImageEnlarger\ImageUpscaler\ImageEnlarger\bin\Debug\ImageEnlarger.exe.config
+C:\Users\mahowa\Documents\Visual Studio 2015\Projects\ImageEnlarger\ImageUpscaler\ImageEnlarger\obj\Debug\ImageEnlarger.exe
+C:\Users\mahowa\Documents\Visual Studio 2015\Projects\ImageEnlarger\ImageUpscaler\ImageEnlarger\obj\Debug\ImageEnlarger.pdb
